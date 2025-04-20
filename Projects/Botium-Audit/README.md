@@ -23,4 +23,9 @@ This project simulates a hands-on internal audit conducted for a fictional compa
 - Control categorization
 - NIST CSF application
 - Documentation & reporting
-Isaiah Ryan Ehlert 
+
+---
+
+## 📎 Academic Integrity Statement
+
+This project was completed as part of the Google Cybersecurity Certificate on Coursera. All audit findings, analysis, and reflections are based on my own understanding and work. I used structured support tools, including formatting and documentation guidance, to organize my learning and ensure clarity in presentation. No content was copied or submitted without my full involvement, and this project reflects my authentic learning process.

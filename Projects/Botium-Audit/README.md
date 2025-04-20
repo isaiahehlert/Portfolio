@@ -23,3 +23,4 @@ This project simulates a hands-on internal audit conducted for a fictional compa
 - Control categorization
 - NIST CSF application
 - Documentation & reporting
+Isaiah Ryan Ehlert 

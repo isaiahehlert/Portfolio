@@ -1,26 +1,33 @@
-# 🧠 Audit Reflection – Botium Toys
+# 🧠 Audit Reflection – Botium Toys (Updated)
 
-> This audit project was completed as part of my coursework for the Google Cybersecurity Certificate. I followed the course readings and activities closely, using the NIST Cybersecurity Framework to guide the structure of my audit. I wrote each section based on what I learned in class, and used the provided scenario (Botium Toys) to apply the concepts in a realistic way. The process helped me practice identifying risks, categorizing controls, and documenting findings professionally.
+> This audit project was completed as part of my coursework for the Google Cybersecurity Certificate. I followed course materials, applied the NIST Cybersecurity Framework, and used a structured internal audit scenario to evaluate risks, controls, and compliance gaps. The findings and recommendations are my own, based on an analysis of the fictional company Botium Toys.
+
+---
 
 ### 1. What part of the audit process was most challenging for you?
-Identifying specific risks and aligning them with the appropriate control categories and types was the most challenging. It required thinking like both a technician and a policy manager, which helped me realize how interdisciplinary cybersecurity truly is.
+
+The most challenging part was identifying and organizing missing controls by category and type. It required me to understand the purpose behind each control and evaluate real-world consequences of not having them in place, especially when interpreting complex risks like data encryption or backup failure.
 
 ---
 
 ### 2. What part of the audit process was most interesting?
-Creating the mitigation plan was the most interesting. It felt like real-world problem-solving—identifying gaps and strategically selecting fixes that balance cost, compliance, and effectiveness.
+
+Building the mitigation plan was the most interesting. It felt like real-world problem-solving—connecting risk to actual fixes. I enjoyed recommending control solutions that not only solve the problem but also align with compliance frameworks like PCI DSS and GDPR.
 
 ---
 
 ### 3. Which control category do you think is most important for this organization?
-Administrative controls are critical at this stage. Botium Toys is growing fast, and clear policies, training, and role separation are necessary to reduce internal risk and build a sustainable security culture.
+
+Administrative controls are crucial for Botium Toys. Without proper policies like access control, password management, and employee training, even the best technical tools won’t be used correctly. This company needs structure and standards to support their growing infrastructure.
 
 ---
 
 ### 4. How can this audit process be applied in a real-world organization?
-This exact process—scope, assess, mitigate, report—is the foundation of security auditing. Any real-world company can use this format to prepare for external audits or improve internal controls proactively.
+
+This process mirrors how internal audits work in small businesses. It can be applied to evaluate control implementation, identify risk-prone areas, and ensure that regulatory requirements are being met. It also helps business owners understand the value of preventative security.
 
 ---
 
 ### 5. What did you learn from this activity?
-I learned how to break down risk into manageable categories, communicate security concerns clearly, and build practical solutions based on best practices. It gave me confidence that I can handle entry-level audit and compliance tasks in a real job setting.
+
+I learned how to walk through an audit from beginning to end. I now feel more confident in identifying risks, categorizing controls, and writing professional audit documentation. This exercise gave me a hands-on perspective that connects theory to practice.

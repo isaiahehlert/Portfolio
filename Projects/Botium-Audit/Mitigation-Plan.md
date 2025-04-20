@@ -1,15 +1,16 @@
-# 🛡️ Mitigation Plan – Botium Toys Internal Audit
+# 🛠️ Mitigation Plan – Botium Toys (Updated)
 
-This plan outlines recommended actions to address the risks and gaps identified during the internal audit. It includes control types, categories, and the rationale for each recommendation.
+This mitigation plan provides targeted actions to address the control gaps identified in the internal audit. Each recommendation aligns with the NIST Cybersecurity Framework and helps reduce Botium Toys’ risk posture.
 
 ---
 
-| Issue Identified                  | Recommended Mitigation                                  | Control Category | Control Type     | Rationale / Benefit                                       |
-|----------------------------------|----------------------------------------------------------|------------------|------------------|-----------------------------------------------------------|
-| Missing separation of duties     | Assign critical roles to different personnel             | Administrative   | Preventative     | Reduces insider threat and single point of failure        |
-| Outdated firewall firmware       | Update firmware and configure firewall rules             | Technical        | Preventative     | Reduces exposure to known vulnerabilities                 |
-| No IDS/IPS system                | Deploy IDS/IPS to monitor and alert on traffic anomalies | Technical        | Detective        | Improves detection of real-time threats                   |
-| Unencrypted PII storage          | Implement data encryption at rest and in transit         | Technical        | Deterrent        | Ensures confidentiality, meets GDPR/PCI DSS              |
-| Missing server room locks        | Install physical locks and restrict access               | Physical         | Preventative     | Prevents unauthorized physical access to infrastructure   |
-| No badge access logging          | Implement badge readers with logging and alerts          | Physical         | Detective        | Enables access tracking for accountability                |
-| Employee phishing awareness low  | Provide mandatory quarterly security awareness training  | Administrative   | Preventative     | Strengthens human layer of defense                        |
+| Issue Identified                        | Recommended Mitigation                                      | Control Category | Control Type     | Rationale / Benefit                                |
+|----------------------------------------|--------------------------------------------------------------|------------------|------------------|---------------------------------------------------|
+| Missing password policy                | Implement a strong password policy with complexity rules     | Administrative   | Preventative     | Reduces brute-force and credential reuse risks     |
+| No password manager                    | Deploy a centralized password management system              | Technical        | Preventative     | Encourages unique, secure passwords across systems |
+| No access control policy               | Define and enforce role-based access controls                | Administrative   | Preventative     | Enforces least privilege to reduce insider threats |
+| No intrusion detection system          | Install IDS/IPS solution with alerting and logging           | Technical        | Detective        | Enables real-time monitoring and anomaly detection |
+| Unencrypted sensitive data             | Implement AES-256 encryption for data at rest and TLS for transit | Technical    | Deterrent        | Meets compliance requirements and protects PII     |
+| No backup or disaster recovery plan    | Schedule regular backups and document recovery procedures    | Technical        | Corrective       | Ensures continuity in case of breach or outage     |
+| Incomplete employee training           | Standardize and require quarterly cybersecurity awareness training | Administrative | Preventative     | Strengthens human-layer defenses                  |
+| Lack of inventory access logs          | Implement physical access logging for inventory systems      | Physical         | Detective        | Helps trace product movement and theft             |

@@ -1,13 +1,18 @@
-# 📊 Risk Assessment – Botium Toys
+# 📊 Risk Assessment – Botium Toys (Updated)
 
-This matrix identifies and evaluates key risks to Botium Toys' infrastructure, mapped to potential impact and likelihood.
+This matrix identifies and evaluates key security risks found during the internal audit of Botium Toys, based on the official scenario report. Risk level is based on the likelihood of occurrence and the potential business or compliance impact.
 
-| Risk Description                         | Likelihood | Impact   | Risk Level | Notes / Standards Affected     |
-|-----------------------------------------|------------|----------|------------|-------------------------------|
-| Unencrypted customer PII                | High       | High     | Critical   | GDPR, PCI DSS compliance      |
-| Outdated firewall firmware              | Medium     | High     | High       | NIST CSF: Protect Function    |
-| No IDS/IPS monitoring                   | High       | Medium   | High       | Reduces detection capability  |
-| Lack of role-based access control       | Medium     | High     | High       | Administrative oversight risk |
-| Server room lacks physical locks        | High       | Medium   | High       | Physical security failure     |
-| No badge access logs                    | Medium     | Medium   | Medium     | Hinders investigation         |
-| Weak phishing awareness among staff     | High       | Medium   | High       | Social engineering risk       |
+| Risk Description                           | Likelihood | Impact   | Risk Level | Notes / Standards Affected         |
+|-------------------------------------------|------------|----------|------------|------------------------------------|
+| Missing encryption for sensitive data     | High       | High     | Critical   | GDPR, PCI DSS                      |
+| No access control or least privilege policy| High       | High     | Critical   | Insider threat risk, noncompliance |
+| Lack of intrusion detection/prevention    | High       | Medium   | High       | Weak detection = undetected attacks|
+| Outdated/unsupported legacy systems       | Medium     | High     | High       | Patchless systems = malware risk   |
+| No disaster recovery or backup strategy   | High       | High     | Critical   | Business continuity at risk        |
+| Weak or reused employee passwords         | High       | Medium   | High       | Increased account compromise risk  |
+| No centralized password manager           | Medium     | Medium   | Medium     | Password sprawl = poor hygiene     |
+| Physical assets lack access logging       | Medium     | Medium   | Medium     | Can’t trace unauthorized access    |
+
+**Overall Risk Score: 8/10**
+
+> The organization has significant gaps in both administrative and technical controls. Priority should be placed on data protection, employee access management, system monitoring, and business continuity planning.

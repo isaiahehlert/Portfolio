@@ -1,5 +1,7 @@
 # 🧠 Audit Reflection – Botium Toys
 
+> This audit project was completed as part of my coursework for the Google Cybersecurity Certificate. I followed the course readings and activities closely, using the NIST Cybersecurity Framework to guide the structure of my audit. I wrote each section based on what I learned in class, and used the provided scenario (Botium Toys) to apply the concepts in a realistic way. The process helped me practice identifying risks, categorizing controls, and documenting findings professionally.
+
 ### 1. What part of the audit process was most challenging for you?
 Identifying specific risks and aligning them with the appropriate control categories and types was the most challenging. It required thinking like both a technician and a policy manager, which helped me realize how interdisciplinary cybersecurity truly is.
 

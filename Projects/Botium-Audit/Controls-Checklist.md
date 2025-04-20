@@ -1,16 +1,19 @@
-# Controls & Compliance Checklist – Botium Toys
+# ✅ Controls & Compliance Checklist – Botium Toys (Updated)
 
-| Control Name                    | Control Category | Control Type     | Status            | Compliance Risk / Note                          |
-|--------------------------------|------------------|------------------|-------------------|--------------------------------------------------|
-| Password policy                | Administrative   | Preventative     | Partially in place | Risk of account compromise; affects PCI & GDPR  |
-| Access control policy          | Administrative   | Preventative     | In place           | Supports data protection, user accountability    |
-| Separation of duties           | Administrative   | Preventative     | Missing            | Risk of insider threat, conflicts of interest    |
-| Antivirus software             | Technical        | Corrective       | In place           | Required for malware response                    |
-| IDS/IPS deployment             | Technical        | Detective        | Missing            | No visibility into intrusions                    |
-| Firewall configuration         | Technical        | Preventative     | Partially in place | Unpatched firmware could expose network          |
-| Data encryption at rest        | Technical        | Deterrent        | Missing            | Required by GDPR and PCI DSS                     |
-| Regular backups                | Technical        | Corrective       | In place           | Helps restore after breach or failure            |
-| CCTV system                    | Physical         | Detective        | In place           | Monitors physical access to critical areas       |
-| Server room locks              | Physical         | Preventative     | Missing            | Risk of physical tampering                       |
-| Employee badge access logs     | Physical         | Detective        | Missing            | No tracking of access events                     |
-| Signage for surveillance       | Physical         | Deterrent        | In place           | Helps deter unauthorized physical access         |
+This checklist reflects the current state of security controls at Botium Toys, based on the internal audit findings.
+
+| Control Name                        | Control Category | Control Type     | Status             | Compliance Risk / Note                              |
+|------------------------------------|------------------|------------------|--------------------|------------------------------------------------------|
+| Antivirus software                 | Technical        | Corrective       | In place           | Helps detect and quarantine malware                 |
+| Firewall                           | Technical        | Preventative     | In place           | Blocks unauthorized network access                  |
+| Password policy                    | Administrative   | Preventative     | Missing            | Increases likelihood of account compromise          |
+| Password manager                   | Technical        | Preventative     | Missing            | Weak password hygiene across systems                |
+| Access control policy              | Administrative   | Preventative     | Missing            | Violates least privilege principles                 |
+| IDS/IPS                            | Technical        | Detective        | Missing            | No monitoring of network anomalies                  |
+| Data encryption (at rest & transit)| Technical        | Deterrent        | Missing            | Required by GDPR and PCI DSS                        |
+| Disaster recovery plan             | Administrative   | Corrective       | Missing            | Business continuity not ensured                     |
+| System backups                     | Technical        | Corrective       | Missing            | Data loss risk during attack or system failure      |
+| CCTV system                        | Physical         | Preventative/Detective | In place    | Deters and records unauthorized access             |
+| Server room locks                 | Physical         | Preventative     | In place           | Limits physical access to infrastructure            |
+| Employee security training         | Administrative   | Preventative     | Partial            | Some training exists but not standardized           |
+| Inventory access logging           | Physical         | Detective        | Missing            | Cannot track product movement or theft              |

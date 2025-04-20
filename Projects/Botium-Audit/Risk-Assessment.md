@@ -11,3 +11,4 @@ This matrix identifies and evaluates key risks to Botium Toys' infrastructure, m
 | Server room lacks physical locks        | High       | Medium   | High       | Physical security failure     |
 | No badge access logs                    | Medium     | Medium   | Medium     | Hinders investigation         |
 | Weak phishing awareness among staff     | High       | Medium   | High       | Social engineering risk       |
+complete 04-10-2025

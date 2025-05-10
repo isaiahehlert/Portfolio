@@ -1,0 +1,151 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNS-Bold;\f1\fnil\fcharset0 .SFNS-Regular;\f2\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;
+\f3\fnil\fcharset0 HelveticaNeue-Bold;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
+{\*\expandedcolortbl;;\cssrgb\c6700\c6700\c6700;}
+\margl1440\margr1440\vieww11980\viewh11880\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs30 \cf2 Project Description
+\f1\b0\fs28 \
+\
+As a security professional, I used Linux commands to manage file and directory permissions in a simulated environment. My objective was to identify and remove unauthorized access from sensitive research files. Using commands like 
+\f2 ls -la
+\f1  and 
+\f2 chmod
+\f1 , I ensured that only the appropriate users and groups had access to key project files.\
+\
+
+\f0\b\fs30 Check File and Directory Details
+\f1\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b \cf2 Command used:\
+ls -la /home/researcher2/projects\
+\
+Sample output:\
+drwx--x--- 2 researcher2 research_team 4096 Oct 14 18:40 drafts\
+-rw-rw-rw- 1 researcher2 research_team   46 Oct 14 18:40 project_k.txt\
+-rw-r----- 1 researcher2 research_team   46 Oct 14 18:40 project_m.txt\
+-rw-rw-r-- 1 researcher2 research_team   46 Oct 14 18:40 project_r.txt\
+-rw-rw-r-- 1 researcher2 research_team   46 Oct 14 18:40 project_t.txt\
+-rw-rw---- 1 researcher2 research_team   46 Oct 14 18:40 .project_x.txt\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 Permissions Source:
+\f1\b0 \cf2  Based on the \'93Current file permissions\'94 document [110].\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs30 \cf2 Describe the Permissions String
+\f1\b0\fs28 \
+\
+Example: 
+\f2 -rw-rw-rw-
+\f1 \
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f2 -
+\f1 : It\'92s a regular file.\
+	\'95	
+\f2 rw-
+\f1 : The user has read and write permissions.\
+	\'95	
+\f2 rw-
+\f1 : The group has read and write permissions.\
+	\'95	
+\f2 rw-
+\f1 : Other users also have read and write permissions (
+\f3\b security risk
+\f1\b0  in this case).\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs30 \cf2 Change File Permissions
+\f1\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b \cf2 Issue:
+\f1\b0 \cf2  
+\f2 project_k.txt
+\f1  had write permissions for \'93other,\'94 which violates the organization\'92s policy.\
+\
+
+\f3\b \cf2 Command used:\
+chmod o-w project_k.txt\
+\
+Result:
+\f1\b0 \cf2  The file\'92s permissions changed from 
+\f2 -rw-rw-rw-
+\f1  to 
+\f2 -rw-rw-r--
+\f1 .\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs30 \cf2 Change File Permissions on a Hidden File
+\f1\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b \cf2 File:
+\f1\b0 \cf2  
+\f2 .project_x.txt
+\f1 \
+
+\f3\b \cf2 Issue:
+\f1\b0 \cf2  Group had write permissions. The file should be 
+\f3\b \cf2 read-only
+\f1\b0 \cf2  for both user and group.\
+\
+
+\f3\b \cf2 Command used:\
+chmod ug=r .project_x.txt\
+\
+Result:
+\f1\b0 \cf2  The file permissions changed from 
+\f2 -rw-rw----
+\f1  to 
+\f2 -r--r-----
+\f1 .\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs30 \cf2 Change Directory Permissions
+\f1\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b \cf2 Directory:
+\f1\b0 \cf2  
+\f2 /home/researcher2/projects/drafts
+\f1 \
+
+\f3\b \cf2 Issue:
+\f1\b0 \cf2  Group had execute (
+\f2 x
+\f1 ) access. Only the owner should access this directory.\
+\
+
+\f3\b \cf2 Command used:\
+chmod g-x drafts\
+\
+Result:
+\f1\b0 \cf2  Permissions changed from 
+\f2 drwx--x---
+\f1  to 
+\f2 drwx------\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs30 \cf2 Summary
+\f1\b0\fs28 \
+\
+In this project, I examined file and directory permissions for a research team using Linux. I used 
+\f2 ls -la
+\f1  to audit permissions and 
+\f2 chmod
+\f1  to remove unauthorized write or execute access. By adjusting these settings, I ensured that sensitive research files were restricted to authorized users only. This hands-on task reflects how security professionals manage file access in real-world systems to prevent data leaks or unauthorized changes.
+\f3\b \cf2 \
+}

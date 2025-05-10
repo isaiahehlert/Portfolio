@@ -49,3 +49,19 @@ The lab involved using a sandbox environment and `tcpdump` to analyze DNS and HT
 ### 📌 Summary
 
 The report documents how a brute force attack was used to compromise a web server and distribute malware via browser redirection. Packet analysis showed HTTP and DNS traffic consistent with an injected redirect. The investigation reinforces critical topics like brute force mitigation, protocol behavior, and the risks of JavaScript-based attacks. A prevention strategy recommending two-factor authentication (2FA) was proposed to strengthen account security and reduce future risk.
+
+## 🧪 Network Hardening and Risk Assessment Lab
+
+This lab focused on evaluating real-world network vulnerabilities within a simulated organization that had experienced a major data breach. As a security analyst, you were tasked with identifying unaddressed risks and recommending specific hardening practices to strengthen the company’s network infrastructure.
+
+Four vulnerabilities were identified: shared passwords, default admin credentials, missing firewall rules, and lack of multifactor authentication (MFA). The risk assessment report outlines how to mitigate these issues using firewall rule enforcement, password policy enforcement, and MFA implementation.
+
+### 🔍 Files Submitted:
+
+- 📝 [Completed Security Risk Assessment Report](./Security_Risk_Assessment_Report.docx)
+- 📄 [Blank Risk Assessment Template](./SecurityRiskAssessmentTemplate.docx)  
+*(Note: GitHub cannot preview .docx files. Click "Download" in the upper-right corner to view.)*
+
+### 📌 Summary
+
+This report details a formal security assessment following a simulated data breach. It includes the selection of specific network hardening tools — such as firewalls and MFA — and explains how and when these methods should be implemented to reduce attack surfaces. The exercise reinforces essential practices in policy enforcement, access control, and network monitoring that are critical to maintaining a secure infrastructure.

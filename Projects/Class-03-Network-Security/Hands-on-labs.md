@@ -65,3 +65,19 @@ Four vulnerabilities were identified: shared passwords, default admin credential
 ### 📌 Summary
 
 This report details a formal security assessment following a simulated data breach. It includes the selection of specific network hardening tools — such as firewalls and MFA — and explains how and when these methods should be implemented to reduce attack surfaces. The exercise reinforces essential practices in policy enforcement, access control, and network monitoring that are critical to maintaining a secure infrastructure.
+
+## 🧪 NIST CSF-Based Incident Report – DDoS Attack Mitigation
+
+In this final lab, you applied the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) to analyze a real-world distributed denial of service (DDoS) attack. The attack targeted a multimedia company’s internal network via a flood of ICMP packets, exploiting an unconfigured firewall. This resulted in two hours of downtime and a full network lockdown.
+
+The investigation involved breaking down the response using the five NIST CSF core functions: Identify, Protect, Detect, Respond, and Recover. As a security analyst, your role was to summarize the incident and propose long-term security strategies to prevent recurrence.
+
+### 🔍 Files Submitted:
+
+- 📝 [Completed Incident Report Analysis](./Incident_Report_Analysis.docx)
+- 📄 [Incident Report Template](./IncidentReportAnalysisTemplate.docx)  
+*(Note: GitHub cannot preview .docx files. Click "Download" in the upper-right corner to view.)*
+
+### 📌 Summary
+
+This lab demonstrates a methodical approach to post-incident analysis using the NIST CSF. The report outlines how unfiltered ICMP traffic enabled the attack and how future risk can be minimized through firewall tuning, source IP verification, and network segmentation. It also includes a recovery plan for staged service restoration and improved incident communication protocols.

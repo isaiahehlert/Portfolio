@@ -33,3 +33,19 @@ The objective was to identify the attack using packet sniffing tools (like Wires
 
 ### 📌 Summary
 This report documents a SYN flood DoS attack, where TCP connections were left half-open to exhaust server resources. Analysis of the Wireshark logs shows a high frequency of SYN packets from a single IP without follow-up ACKs. This hands-on investigation reinforces concepts like TCP handshakes, packet analysis, and mitigation tactics such as SYN cookies and rate limiting. It highlights the importance of proactive traffic inspection and firewall configuration in defending against denial of service threats.
+
+## 🧪 Malware Redirect and Brute Force Breach Investigation Lab
+
+This hands-on lab, part of Class 03: Network Security, involved analyzing an incident where a former employee compromised a company's web server via brute force and injected JavaScript into the website source code. The malicious code prompted visitors to download an executable file, which then redirected their browsers to a fake website hosting malware.
+
+The lab involved using a sandbox environment and `tcpdump` to analyze DNS and HTTP traffic. Analysts traced the attack by reviewing DNS resolutions and HTTP GET requests in the packet log, confirming that visitors were redirected from `yummyrecipesforme.com` to `greatrecipesforme.com`. The root cause was traced to weak admin credentials and a lack of brute force protections.
+
+### 🔍 Files Submitted:
+
+- 📝 [Completed Security Incident Report](./Security_Incident_Report.docx)
+- 📄 [Blank Incident Report Template](./Security-incident-report-template.docx)  
+*(Note: GitHub cannot preview .docx files. Click "Download" in the upper-right corner to view.)*
+
+### 📌 Summary
+
+The report documents how a brute force attack was used to compromise a web server and distribute malware via browser redirection. Packet analysis showed HTTP and DNS traffic consistent with an injected redirect. The investigation reinforces critical topics like brute force mitigation, protocol behavior, and the risks of JavaScript-based attacks. A prevention strategy recommending two-factor authentication (2FA) was proposed to strengthen account security and reduce future risk.

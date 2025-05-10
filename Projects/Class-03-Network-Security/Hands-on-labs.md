@@ -15,6 +15,7 @@ As part of the Google Cybersecurity Certificate coursework, this lab involved us
 ### 🔍 Files Submitted:
 - 📝 [Final Completed Incident Report](./Final_Completed_Cybersecurity_Incident_Report_All_Steps.docx)
 - 📄 [Blank Incident Report Template](./Cybersecurity-incident-report-network-traffic-analysis.docx)
+*(Note: GitHub cannot preview .docx files. Click "Download" in the upper-right corner to view.)*
 
 ### 📌 Summary
 The report captures a full analysis of a “destination port unreachable” issue linked to failed DNS queries over UDP. The ICMP response logs were used to isolate the root cause and propose remediation steps. This document demonstrates hands-on protocol analysis and incident response.

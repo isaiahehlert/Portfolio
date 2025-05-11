@@ -20,8 +20,17 @@ In this lab, I managed file and directory permissions using Linux commands. The 
 
 ---
 
-## 🧮 **SQL for Cybersecurity Lab**
+## 🧮 **SQL Filtering Lab – Apply Filters with AND, OR, NOT**
 
-This lab (TBD) focuses on using SQL to extract and filter data from relational databases. You’ll learn to write basic and intermediate queries used in cybersecurity investigations, such as searching login anomalies or filtering event logs by timestamp.
+In this lab, I conducted advanced SQL filtering operations to analyze login patterns and isolate employee subsets. The scenario involved investigating suspicious access patterns, failed after-hours logins, and department-specific machine update requirements. This reinforced my ability to craft compound SQL queries using logical operators and pattern matching.
 
-📄 *Lab report and template links will be added upon completion.*
+### Key Actions:
+- Queried failed login attempts using `AND` and time filters (`login_time > '18:00:00' AND success = 0`).
+- Filtered logins occurring on multiple dates using `OR`.
+- Used `NOT` and `LIKE` together to exclude country codes like `'MEX%'`.
+- Combined `AND` and `LIKE` to isolate Marketing department users in East-building offices.
+- Queried across departments (`Finance` OR `Sales`) and excluded one (`NOT 'Information Technology'`).
+
+📄 **Report**: [`Apply-Filters-To-SQL-Queries.rtf`](./Apply-Filters-To-SQL-Queries.rtf)  
+📄 **Template**: [`Apply filters to SQL queries.docx`](./Apply%20filters%20to%20SQL%20queries.docx)  
+📑 **Supporting Docs**: [`Instructions for including SQL queries.docx`](./Instructions%20for%20including%20SQL%20queries.docx), [`Table formats.docx`](./Table%20formats.docx)

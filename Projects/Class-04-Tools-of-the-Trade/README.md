@@ -1,5 +1,5 @@
 ## 🛡️ Google Cybersecurity Certificate – Course 4: Tools of the Trade – Linux and SQL  
-📅 Completed: [May 10th 2025]
+📅 Completed: May 10th 2025
 
 ### 🎓 Course Description  
 This course introduced essential cybersecurity tools, focusing on the Linux operating system and Structured Query Language (SQL). Through hands-on labs, I gained practical experience in navigating the Linux command line and querying databases to support security investigations.

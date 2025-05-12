@@ -1,0 +1,5 @@
+Control,Least privilege
+Issue(s),"The data leak occurred due to a failure to revoke access to a shared internal folder after a sales meeting. Additionally, the sales representative shared the wrong link due to confusion and lack of clear access boundaries, violating the principle of least privilege."
+Review,"NIST SP 800-53: AC-6 outlines how to implement least privilege by limiting user access to only what is necessary for their role. It emphasizes enforcing user roles, timely revocation of privileges, and regular audits to maintain secure access control."
+Recommendation(s),"1. Implement role-based access restrictions to ensure only designated roles can view sensitive internal folders. 2. Automatically revoke access to shared resources after a specified time or event (e.g., end of a meeting)."
+Justification,"Restricting access based on roles prevents unnecessary exposure of sensitive information to employees who do not need it. Time-bound access revocation ensures that temporary permissions do not persist beyond their intended purpose, reducing the risk of accidental data leaks."

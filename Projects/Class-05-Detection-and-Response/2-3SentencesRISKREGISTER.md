@@ -1,0 +1,1 @@
+Although the bank operates in a low-crime coastal region, risks remain due to natural disasters, human error, and cyber threats. A hybrid workforce and a broad customer base increase exposure to compromise. Strict financial regulations heighten the impact of any incident involving funds or sensitive data.

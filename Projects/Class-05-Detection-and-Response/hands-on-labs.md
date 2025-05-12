@@ -21,3 +21,23 @@ Operating a small business from a home office, I cataloged network-connected dev
 
 **Deliverable:**  
 📄 [HomeAssetInventory.csv](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/HomeAssetInventory.csv)
+
+## 🛡️ Lab: Risk Register Assessment
+
+**Course:**  
+Google Cybersecurity Certificate – Class 05: Detection and Response
+
+**Objective:**  
+Evaluate potential threats to a financial institution and assign risk scores based on likelihood and severity. Use a risk register to prioritize mitigation strategies and ensure compliance with operational and regulatory requirements.
+
+**Scenario:**  
+A commercial bank in a coastal region with strict financial regulations and a hybrid workforce conducted a risk assessment of its funds. Key risks included business email compromise, database exposure, and supply chain issues. The team assessed risk exposure using NIST’s risk calculation formula: *Likelihood × Severity = Priority*.
+
+**Tasks Completed:**
+- Assessed five financial risks to banking operations.
+- Assigned likelihood and severity scores using a 1–3 scale.
+- Calculated priority scores to rank the risks.
+- Documented the rationale behind each threat score in a register.
+
+**Deliverable:**  
+📄 [RiskRegister.csv](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/RiskRegister.csv)

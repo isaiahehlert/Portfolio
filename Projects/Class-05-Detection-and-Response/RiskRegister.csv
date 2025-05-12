@@ -1,0 +1,6 @@
+Asset,Risk(s),Description,Likelihood,Severity,Priority
+Funds,Business email compromise,An employee is tricked into sharing confidential information.,2,3,6
+Funds,Compromised user database,Customer data is poorly encrypted.,3,3,9
+Funds,Financial records leak,A database server of backed up data is publicly accessible.,2,3,6
+Funds,Theft,The bank's safe is left unlocked.,1,2,2
+Funds,Supply chain disruption,Delivery delays due to natural disasters.,1,3,3

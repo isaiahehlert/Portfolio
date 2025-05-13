@@ -68,3 +68,28 @@ A sales manager accidentally left internal-only documents shared with the team a
 **Deliverables:**  
 📄 [DataLeakWorksheetTemplate.docx](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/DataLeakWorksheetTemplate.docx)  
 📄 [DataLeakWorksheet.csv](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/DataLeakWorksheet.csv)
+
+---
+
+## 🧩 Lab: Access Control Assessment
+
+**Course:**  
+Google Cybersecurity Certificate – Class 05: Detection and Response
+
+**Objective:**  
+Investigate an access control failure involving improper authentication or authorization, and recommend remediation strategies based on the security principle of **least privilege**.
+
+**Scenario:**  
+A user accessed sensitive resources using an account that should have been deactivated. The incident triggered a post-incident access control review to determine the scope, origin, and appropriate mitigation steps. This lab exercise documents threat details, identifies the access control issue, and recommends controls to prevent recurrence.
+
+**Tasks Completed:**
+- Identified **who** caused the incident, **when** it occurred, and **what device** was used.
+- Determined the user’s **level of access** and whether the account should have been active.
+- Applied **authorization and authentication** concepts to classify the failure.
+- Recommended **technical and managerial controls** such as:
+  - Enforcing **automated account deprovisioning**.
+  - Conducting regular **access reviews**.
+  - Implementing **multi-factor authentication** and **logging triggers** for privileged access.
+
+**Deliverable:**  
+📄 [Sentinel_Access_Control_Assessment.docx](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/Sentinel_Access_Control_Assessment.docx)

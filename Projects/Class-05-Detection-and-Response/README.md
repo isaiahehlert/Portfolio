@@ -15,8 +15,3 @@ This course focuses on detecting threats and responding to security incidents. I
 - Incident escalation, containment, and reporting strategies  
 
 ---
-
-### 📄 Certificate  
-🔗 [View Certificate on Coursera](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/module/4)
-
-This credential is part of the Google Cybersecurity Certificate — a professional program designed to prepare learners for entry-level roles in the cybersecurity industry.

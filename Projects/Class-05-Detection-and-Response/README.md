@@ -1,6 +1,6 @@
 ### 📌 Google Cybersecurity Certificate – Course 5: Assets, Threats, and Vulnerabilities (Detection and Response)
 
-📅 **Completed:** [Insert Completion Date]
+📅 **Completed:** [May 14th, 2025]
 
 🎓 **Course Overview:**  
 This course focuses on detecting threats and responding to security incidents. It introduces core principles of asset and threat management, and teaches how to use SIEM tools (like Splunk) to investigate suspicious activity. Learners explore log analysis, threat identification, and the fundamentals of digital forensics and response planning.
@@ -17,6 +17,6 @@ This course focuses on detecting threats and responding to security incidents. I
 ---
 
 ### 📄 Certificate  
-🔗 [View Certificate on Coursera](https://www.coursera.org/account/accomplishments/verify/XXXXXXX)
+🔗 [View Certificate on Coursera](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/module/4)
 
 This credential is part of the Google Cybersecurity Certificate — a professional program designed to prepare learners for entry-level roles in the cybersecurity industry.

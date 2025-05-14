@@ -1,4 +1,4 @@
-### 📌 Google Cybersecurity Certificate – Course 6: Detection and Response
+### 📌 Google Cybersecurity Certificate – Course 6: Sound The Alarm: Detection and Response
 
 📅 **Completed:** [Date TBD – use actual date upon completion]
 

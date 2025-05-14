@@ -12,3 +12,4 @@ This course introduced essential cybersecurity tools, focusing on the Linux oper
 - 👥 User and permission management  
 - 🧮 Writing and running SQL queries  
 - 📊 Extracting and filtering data from relational databases
+

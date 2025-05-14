@@ -116,3 +116,26 @@ As a newly hired cybersecurity analyst for an e-commerce company, I discovered t
 
 **Deliverable:**  
 📄 [VulnerabilityAssessmentReport.md](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/VulnerabilityAssessmentReport.md)
+
+---
+
+## 🧲 Lab: Parking Lot USB Exercise
+
+**Course:**  
+Google Cybersecurity Certificate – Class 05: Detection and Response
+
+**Objective:**  
+Assess the risks of USB baiting attacks by analyzing the contents of a found USB drive, applying attacker mindset strategies, and proposing mitigation techniques to protect organizational systems.
+
+**Scenario:**  
+A USB stick branded with the hospital’s logo was found in the employee parking lot. After safely inspecting the device in a virtualized sandbox environment, the security team discovered a mix of personal photos and HR documents. The exercise focused on how such information could be exploited by threat actors and how to defend against similar baiting attacks.
+
+**Tasks Completed:**
+- Identified files containing personal and work-related data, including PII and shift schedules.
+- Explored attack vectors like spear-phishing and malicious code delivery.
+- Applied attacker mindset to map exploitation paths.
+- Proposed mitigation techniques including port control, sandboxing, and staff training.
+- Evaluated USB baiting risks using technical, operational, and managerial lenses.
+
+**Deliverable:**  
+📄 [ParkingLotUSBExercise.md](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/ParkingLotUSBExercise.md)

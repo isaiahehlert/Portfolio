@@ -93,3 +93,26 @@ A user accessed sensitive resources using an account that should have been deact
 
 **Deliverable:**  
 📄 [Sentinel_Access_Control_Assessment.docx](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/Sentinel_Access_Control_Assessment.docx)
+
+---
+
+## 🧮 Lab: Vulnerability Assessment Report
+
+**Course:**  
+Google Cybersecurity Certificate – Class 05: Detection and Response
+
+**Objective:**  
+Conduct a vulnerability assessment of a small business's public-facing database server to identify major risks, determine their likelihood and severity, and develop a remediation strategy aligned with NIST SP 800-30 Rev. 1.
+
+**Scenario:**  
+As a newly hired cybersecurity analyst for an e-commerce company, I discovered that the organization's database server had been exposed to the public internet since launch. The server, which stores and provides access to sensitive customer prospect data, was a prime target for external and internal threat actors. I evaluated the threat sources, estimated likelihood and severity of attacks, and proposed layered defenses to reduce exposure and ensure business continuity.
+
+**Tasks Completed:**
+- Identified top threats including exfiltration, DoS attacks, and insider data modification.
+- Scored each threat based on **likelihood × severity = risk**.
+- Documented rationale and assessment approach using qualitative analysis.
+- Recommended controls like MFA, least privilege, encrypted connections, and intrusion detection.
+- Used **NIST SP 800-30 Rev. 1** to guide methodology and risk modeling.
+
+**Deliverable:**  
+📄 [VulnerabilityAssessmentReport.md](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/VulnerabilityAssessmentReport.md)

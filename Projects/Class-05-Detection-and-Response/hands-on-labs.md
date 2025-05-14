@@ -139,3 +139,26 @@ A USB stick branded with the hospital’s logo was found in the employee parking
 
 **Deliverable:**  
 📄 [ParkingLotUSBExercise.md](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/ParkingLotUSBExercise.md)
+---
+
+## 🧠 Lab: PASTA Threat Modeling Worksheet
+
+**Course:**  
+Google Cybersecurity Certificate – Class 05: Detection and Response
+
+**Objective:**  
+Use the PASTA (Process for Attack Simulation and Threat Analysis) framework to assess the security risks of a new sneaker trading app before launch, identifying potential threats and recommending defenses.
+
+**Scenario:**  
+The company is preparing to launch a mobile app for buying and selling sneakers. As part of the growing security team, I conducted a full threat model using the seven stages of PASTA. I evaluated technical risks in SQL, encryption, and API layers; analyzed attacker tactics; and proposed defenses to reduce risk.
+
+**Tasks Completed:**
+- Identified business goals related to data privacy, payment handling, and user trust.
+- Prioritized SQL security due to its role in storing sneaker and transaction data.
+- Mapped external and internal threats including injection and insider misuse.
+- Analyzed potential vulnerabilities in the codebase and encryption logic.
+- Recommended controls such as input validation, MFA, secure TLS usage, and rate limiting.
+
+**Deliverable:**  
+📄 [PASTA-ThreatModelingWorksheet.md](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-05-Detection-and-Response/PASTA-ThreatModelingWorksheet.md)
+

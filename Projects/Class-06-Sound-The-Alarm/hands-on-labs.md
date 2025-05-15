@@ -39,3 +39,24 @@ In this lab, a fictional healthcare clinic is targeted by ransomware via a phish
 🔗 **[View Journal Entry](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-06-Sound-The-Alarm/DocumentIncidentWIncidentHandlersJournal.md)**
 
 ---
+
+## 📁 Lab 3: Analyze File with VirusTotal and Pyramid of Pain
+
+**🎯 Objective:**  
+Investigate a suspicious file hash using **VirusTotal**, extract threat intelligence, and classify indicators of compromise using the **Pyramid of Pain** framework.
+
+**📝 Summary:**  
+In this scenario, a financial employee downloads a malicious spreadsheet. Using the file’s SHA256 hash, students analyze the VirusTotal report to determine whether the file is malicious, extract related IoCs, and categorize them based on how painful they are for attackers to lose.
+
+**🛠️ Skills Gained:**  
+- Use of **VirusTotal** to analyze files and hashes  
+- Identification of **IoCs**: hash, domain, IP, tools, artifacts, TTPs  
+- Application of the **Pyramid of Pain** threat model  
+- Enrichment of alert data with global threat intelligence
+
+🔗 **[View Lab Report](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-06-Sound-The-Alarm/AnalyzeFileWithVirusTotalAndPyramidOfPain.md)**
+
+---
+
+
+---

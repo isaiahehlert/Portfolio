@@ -58,5 +58,20 @@ In this scenario, a financial employee downloads a malicious spreadsheet. Using 
 
 ---
 
+## 📁 Lab 4: Respond to Phishing Alert Using Playbook Procedures
+
+**🎯 Objective:**  
+Follow a structured phishing playbook to investigate and respond to a malicious email alert using real-world SOC protocols.
+
+**📝 Summary:**  
+In this lab, a phishing email with a malicious attachment triggers a Medium severity alert. The file’s hash was verified as malicious. You act as a Level 1 SOC analyst to evaluate the incident, complete the 5 W’s, and decide whether to escalate the alert using the organization’s phishing playbook.
+
+**🛠️ Skills Gained:**  
+- Use of **incident response playbooks**  
+- Alert evaluation using sender, subject, and file hash analysis  
+- Ticket escalation based on evidence of compromise  
+- Writing structured alert resolution comments
+
+🔗 **[View Alert Response](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-06-Sound-The-Alarm/RespondToPhishingAlertUsingPlaybook.md)**
 
 ---

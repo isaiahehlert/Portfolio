@@ -75,3 +75,19 @@ In this lab, a phishing email with a malicious attachment triggers a Medium seve
 🔗 **[View Alert Response](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-06-Sound-The-Alarm/RespondToPhishingAlertUsingPlaybook.md)**
 
 ---
+
+## 📁 Lab 5: Finalize Incident Handler’s Journal
+
+**🎯 Objective:**  
+Consolidate all incident handler journal entries created throughout the course, including investigations, tool usage, and personal reflection, into a final portfolio-ready document.
+
+**📝 Summary:**  
+This lab involved completing a structured incident journal with four detailed entries. Each entry demonstrates real-world analyst tasks like documenting phishing investigations, using tools like VirusTotal and Suricata, and following incident response playbooks. The journal was finalized with a reflective summary to showcase growth and understanding of the detection and response process.
+
+**🛠️ Skills Gained:**  
+- Incident documentation using the 5 W’s  
+- Logging and analysis using Suricata, VirusTotal, and playbooks  
+- Professional cybersecurity writing  
+- Portfolio-ready documentation for recruiters and employers
+
+🔗 **[View Final Journal](https://github.com/isaiahehlert/Portfolio/blob/main/Projects/Class-06-Sound-The-Alarm/IncidentHandlersJournal_Final.md)**

@@ -30,7 +30,7 @@ If you are interested in:
 
 ...please contact me directly at:
 
-📧 **Isaiahehlert@icloud.com**
+📧 **isaiah@sentinelresearchgroup.org.com**
 
 A custom license or usage agreement will be drafted based on your request and use case.
 

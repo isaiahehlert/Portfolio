@@ -33,7 +33,7 @@ This repository contains structured folders for each course in the Google Cybers
 - ✅ A `README.md` overview of the course  
 - 🧪 Hands-on lab artifacts  
 - 📄 Written reflections and documentation  
-- 📜 Credential or certificate (when available)  
+- 📜 Certificate
 
 ---
 

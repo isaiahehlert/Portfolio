@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio — Isaiah Ryan Ehlert
+by# 🛡️ Cybersecurity Portfolio — Isaiah Ryan Ehlert
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/isaiahehlert/Portfolio?color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/isaiahehlert/Portfolio)
@@ -53,10 +53,10 @@ This repository contains structured folders for each course in the Google Cybers
 
 ---
 
-## 📜 Credentials
+## 📜 Certification
 
-| Credential | Link |
-|------------|------|
+| Certification | Link |
+|---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
 
 All class credentials are viewable in the [`credentials/`](./credentials) folder.

@@ -58,9 +58,8 @@ This repository contains structured folders for each course in the Google Cybers
 | Credential | Link |
 |------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
-| **Class 08 – Put It to Work** | [View Credential](https://www.coursera.org/account/accomplishments/verify/9XH97Q0WOE1K) |
 
-All credentials are also available in the [`credentials/`](./credentials) folder.
+All class credentials are viewable in the [`credentials/`](./credentials) folder.
 
 ---
 

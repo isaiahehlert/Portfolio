@@ -1,5 +1,13 @@
 # 🛡️ Cybersecurity Portfolio — Isaiah Ryan Ehlert
 
+![GitHub last commit](https://img.shields.io/github/last-commit/isaiahehlert/Portfolio?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/isaiahehlert/Portfolio)
+![Top language](https://img.shields.io/github/languages/top/isaiahehlert/Portfolio?color=yellow)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaiah%20Ehlert-blue?logo=linkedin)](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)
+![Coursera Credential](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Coursera-blueviolet?logo=coursera)
+
+> A curated showcase of hands-on labs, certifications, and real-world cybersecurity artifacts built while completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) through Coursera.
 > A curated showcase of hands-on labs, certifications, and real-world cybersecurity artifacts built while completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) through Coursera.
 
 ---

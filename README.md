@@ -23,14 +23,14 @@ My goal is to help organizations **identify threats, reduce risk, and protect se
 
 This repository contains structured folders for each course in the Google Cybersecurity Certificate. Each folder includes:
 
-- ✅ A `README.md` overview of the course
-- 🧪 Hands-on lab artifacts
-- 📄 Written reflections and documentation
-- 📜 Credential or certificate (when available)
+- ✅ A `README.md` overview of the course  
+- 🧪 Hands-on lab artifacts  
+- 📄 Written reflections and documentation  
+- 📜 Credential or certificate (when available)  
 
 ---
 
-## 📚 Coursework Completed (Classes 01–07)
+## 📚 Coursework Completed (Classes 01–08)
 
 | Class | Title | Contents |
 |-------|-------|----------|
@@ -40,13 +40,13 @@ This repository contains structured folders for each course in the Google Cybers
 | [Class 05](./Projects/Class-05-Detection-and-Response) | **Detection and Response** | Incident journals, phishing alerts, Wireshark |
 | [Class 06](./Projects/Class-06-Sound-The-Alarm) | **Sound the Alarm: Detection and Response Tools** | Playbooks, Suricata, VirusTotal, SOC workflows |
 | [Class 07](./Projects/Class-07-Automate-Cybersecurity-Tasks-With-Python) | **Automate Cybersecurity Tasks with Python** | Python automation, file parsing, regex, algorithms |
-> _Note: Class 01 (Foundations) and Class 08 (Job Search) do not contain hands-on projects and are not included here. Certificates for all completed classes will be included in the_ [`credentials/`](./credentials) _folder._
+| [Class 08](./Projects/Class-08-Landing-the-Job) | **Landing the Job** | Security organization worksheet, career reflections |
+
+> _Note: Class 01 (Foundations) does not contain hands-on projects and is not included here. Certificates for all completed classes are available in the_ [`credentials/`](./credentials) _folder._
 
 ---
 
 ## 🔗 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)  
 - 💌 Email: `isaiah@sentinelresearchgroup.org`
-
----

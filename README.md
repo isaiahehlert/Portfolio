@@ -44,12 +44,6 @@ This repository contains structured folders for each course in the Google Cybers
 
 ---
 
-## 📜 Credentials
-
-All earned certificates and credentials are available [here → `credentials/`](./credentials/).  
-
----
-
 ## 🔗 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360) 

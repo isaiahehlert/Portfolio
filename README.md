@@ -51,7 +51,7 @@ All earned certificates and credentials are available [here → `credentials/`](
 
 ## 🔗 Connect with Me
 
-- 🌐 [LinkedIn](www.linkedin.com/in/isaiah-ehlert-7ab859360)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360) 
 - 💌 Email: `isaiahehlert@gmail.com`
 
 ---

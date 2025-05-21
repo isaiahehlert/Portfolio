@@ -40,6 +40,7 @@ This repository contains structured folders for each course in the Google Cybers
 | [Class 05](./Projects/Class-05-Detection-and-Response) | **Detection and Response** | Incident journals, phishing alerts, Wireshark |
 | [Class 06](./Projects/Class-06-Sound-The-Alarm) | **Sound the Alarm: Detection and Response Tools** | Playbooks, Suricata, VirusTotal, SOC workflows |
 | [Class 07](./Projects/Class-07-Automate-Cybersecurity-Tasks-With-Python) | **Automate Cybersecurity Tasks with Python** | Python automation, file parsing, regex, algorithms |
+> _Note: Class 01 (Foundations) and Class 08 (Job Search) do not contain hands-on projects and are not included here. Certificates for all completed classes will be included in the_ [`credentials/`](./credentials) _folder._
 
 ---
 

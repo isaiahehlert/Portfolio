@@ -5,9 +5,8 @@
 ![Top language](https://img.shields.io/github/languages/top/isaiahehlert/Portfolio?color=yellow)
 ![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaiah%20Ehlert-blue?logo=linkedin)](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)
-![Coursera Credential](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Coursera-blueviolet?logo=coursera)
+[![Coursera Credential](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Coursera-blueviolet?logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC)
 
-> A curated showcase of hands-on labs, certifications, and real-world cybersecurity artifacts built while completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) through Coursera.
 > A curated showcase of hands-on labs, certifications, and real-world cybersecurity artifacts built while completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) through Coursera.
 
 ---
@@ -48,9 +47,20 @@ This repository contains structured folders for each course in the Google Cybers
 | [Class 05](./Projects/Class-05-Detection-and-Response) | **Detection and Response** | Incident journals, phishing alerts, Wireshark |
 | [Class 06](./Projects/Class-06-Sound-The-Alarm) | **Sound the Alarm: Detection and Response Tools** | Playbooks, Suricata, VirusTotal, SOC workflows |
 | [Class 07](./Projects/Class-07-Automate-Cybersecurity-Tasks-With-Python) | **Automate Cybersecurity Tasks with Python** | Python automation, file parsing, regex, algorithms |
-| [Class 08](./Projects/Class-08-Landing-the-Job) | **Landing the Job** | Security organization worksheet, career reflections |
+| [Class 08](./Projects/Class-08-Landing-the-Job) | **Landing the Job** | Security org research, elevator pitch, resume, STAR interview answers |
 
-> _Note: Class 01 (Foundations) does not contain hands-on projects and is not included here. Certificates for all completed classes are available in the_ [`credentials/`](./credentials) _folder._
+> _Note: Class 01 (Foundations) does not contain hands-on projects and is not included here. Certificates for all completed classes are available in the [`credentials/`](./credentials) folder._
+
+---
+
+## 📜 Credentials
+
+| Credential | Link |
+|------------|------|
+| **Google Cybersecurity Certificate – Full Program** | [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
+| **Class 08 – Put It to Work** | [View Credential](https://www.coursera.org/account/accomplishments/verify/9XH97Q0WOE1K) |
+
+All credentials are also available in the [`credentials/`](./credentials) folder.
 
 ---
 

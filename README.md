@@ -22,7 +22,7 @@ I'm building strong capabilities in:
 - **Incident response & network monitoring**
 - **Risk assessment & mitigation planning**
 
-My goal is to help organizations **identify threats, reduce risk, and protect sensitive data** across networks and infrastructure.
+My focus: **identifying threats, reducing risk, and protecting sensitive data**.
 
 ---
 
@@ -53,20 +53,24 @@ This repository contains structured folders for each course in the Google Cybers
 
 ---
 
-## 📜 Certification
+## 📜 Certifications
 
 | Certification | Link |
 |---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
+| **micro1 Independent Security Researcher** | Certification below |
 
 ![Google Certificate](./credentials/assets/google-cybersecurity-certificate.jpeg)
 ![Badge](./credentials/assets/google-cybersecurity-badge.jpeg)
 
 All class credentials are viewable in the [`credentials/`](./credentials) folder.
 
+![micro1 Certification](./credentials/assets/Micro1Certification.png)
 ---
 
 ## 🔗 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)  
 - 💌 Email: `isaiah@sentinelresearchgroup.org`
+  
+Let’s secure the digital world together. 🚀

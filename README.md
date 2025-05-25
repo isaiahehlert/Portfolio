@@ -55,10 +55,14 @@ This repository contains structured folders for each course in the Google Cybers
 
 ## 📜 Certifications
 
+<div align="center">
+
 | Certification | Link |
 |---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
 | **micro1 Independent Security Researcher** | Certification below |
+
+</div>
 
 <div align="center">
 

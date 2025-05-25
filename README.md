@@ -60,12 +60,18 @@ This repository contains structured folders for each course in the Google Cybers
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
 | **micro1 Independent Security Researcher** | Certification below |
 
-![Google Certificate](./credentials/assets/google-cybersecurity-certificate.jpeg)
-![Badge](./credentials/assets/google-cybersecurity-badge.jpeg)
+<div align="center">
+
+<img src="./credentials/assets/google-cybersecurity-certificate.jpeg" width="400" alt="Google Certificate">
+
+<img src="./credentials/assets/google-cybersecurity-badge.jpeg" width="200" alt="Google Badge">
+
+<img src="./credentials/assets/Micro1Certification.png" width="400" alt="micro1 Certification">
+
+</div>
 
 All class credentials are viewable in the [`credentials/`](./credentials) folder.
 
-![micro1 Certification](./credentials/assets/Micro1Certification.png)
 ---
 
 ## 🔗 Connect with Me

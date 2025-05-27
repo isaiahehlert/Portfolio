@@ -80,7 +80,11 @@ All class credentials are viewable in the [`credentials/`](./credentials) folder
 
 ## 🔗 Connect with Me
 
-[![LinkedIn: Isaiah Ehlert](./assets/linkedin-profile-card.png)](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)
+## 🔗 My LinkedIn Profile Card
+
+<div align="center">
+  <img src="./assets/linkedin-profile-card.png" width="400" alt="LinkedIn Profile Card">
+</div>
 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)  

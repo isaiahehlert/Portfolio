@@ -80,7 +80,8 @@ All class credentials are viewable in the [`credentials/`](./credentials) folder
 
 ## 🔗 Connect with Me
 
-[![LinkedIn: Isaiah Ehlert](https://img.shields.io/badge/-Isaiah%20Ehlert-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)
+[![LinkedIn: Isaiah Ehlert](./assets/linkedin-profile-card.png)](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)
+
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)  
 - 💌 Email: `isaiah@sentinelresearchgroup.org`

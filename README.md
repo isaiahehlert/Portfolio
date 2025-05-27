@@ -81,7 +81,7 @@ All class credentials are viewable in the [`credentials/`](./credentials) folder
 ## 🔗 Connect with Me
 
 <div align="center">
-  <img src="./assets/linkedin-profile-card.jpg" width="400" alt="LinkedIn Profile Card">
+  <img src="./credentials/assets/Linkedin-profile-card.jpg" width="400" alt="LinkedIn Profile Card">
 </div>
 
 

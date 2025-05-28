@@ -13,9 +13,9 @@
 
 ## 👨‍💻 Professional Statement
 
-I am an adaptable and mission-driven cybersecurity professional-in-training with a background in high-risk, high-accountability environments. I value integrity, continuous learning, and ethical responsibility in securing digital systems.
+I am an adaptable and mission-driven cybersecurity professional with a background in high-risk, high-accountability environments. I value integrity, continuous learning, and ethical responsibility in securing digital systems.
 
-I'm building strong capabilities in:
+I possess strong capabilities in:
 
 - **Python for security automation**
 - **Digital forensics & threat analysis**

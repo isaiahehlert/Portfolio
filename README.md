@@ -67,7 +67,7 @@ Each completed course is documented with:
 | [Class 07](./Projects/Class-07-Automate-Cybersecurity-Tasks-With-Python) | **Automate Cybersecurity Tasks with Python** | Python automation, file parsing, regex, algorithms |
 | [Class 08](./Projects/Class-08-Landing-the-Job) | **Landing the Job** | Security org research, elevator pitch, resume, STAR interview answers |
 
-> _Note: Class 01 (Foundations) and IT Support courses are credential-only — see [`credentials/`](./credentials)._
+> _Note: Classes 01 of Cybersecurity and IT Support certs are credential-only — see [`credentials/`](./credentials)._
 
 ---
 

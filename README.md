@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaiah%20Ehlert-blue?logo=linkedin)](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)
 [![Coursera Credential](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Coursera-blueviolet?logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC)
 
-> A curated showcase of hands-on labs, certifications, and real-world cybersecurity artifacts built while completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) through Coursera.
+> A curated showcase of hands-on labs, certifications, and real-world cybersecurity artifacts built while completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) and [Google IT Support Certificate](https://www.coursera.org/professional-certificates/google-it-support) through Coursera.
 
 ---
 
@@ -49,7 +49,7 @@ This repository contains structured folders for each course in the Google Cybers
 | [Class 07](./Projects/Class-07-Automate-Cybersecurity-Tasks-With-Python) | **Automate Cybersecurity Tasks with Python** | Python automation, file parsing, regex, algorithms |
 | [Class 08](./Projects/Class-08-Landing-the-Job) | **Landing the Job** | Security org research, elevator pitch, resume, STAR interview answers |
 
-> _Note: Class 01 (Foundations) does not contain hands-on projects and is not included here. Certificates for all completed classes are available in the [`credentials/`](./credentials) folder._
+> _Note: Class 01 (Foundations) and the Google IT Support certificate do not include project files but are credentialed in the [`credentials/`](./credentials) folder._
 
 ---
 
@@ -60,6 +60,7 @@ This repository contains structured folders for each course in the Google Cybers
 | Certification | Link |
 |---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
+| **Google IT Support Professional Certificate – Course 1** | [View Cert.](https://www.coursera.org/account/accomplishments/verify/17YJ82SV6H4Z) |
 | **micro1 Independent Security Researcher** | Certification below |
 
 </div>
@@ -74,7 +75,7 @@ This repository contains structured folders for each course in the Google Cybers
 
 </div>
 
-All class credentials are viewable in the [`credentials/`](./credentials) folder.
+All course credentials are viewable in the [`credentials/`](./credentials) folder.
 
 ---
 
@@ -83,9 +84,3 @@ All class credentials are viewable in the [`credentials/`](./credentials) folder
 <div align="center">
   <img src="./credentials/assets/Linkedin-profile-card.jpg" width="400" alt="LinkedIn Profile Card">
 </div>
-
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/isaiah-ehlert-7ab859360)  
-- 💌 Email: `isaiah@sentinelresearchgroup.org`
-
-Let’s secure the digital world together. 🚀

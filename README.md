@@ -99,7 +99,7 @@ For all course certificates, see the [`credentials/`](./credentials) folder.
 ## 📌 Active Progress
 
 - ✅ Google Cybersecurity Certificate — **Completed**
-- 🔄 Google IT Support Certificate — **In Progress** (Course 2 next)
+- 🔄 Google IT Support Certificate — **In Progress** 
 - 🎓 WGU Cybersecurity & Information Assurance B.S. — **Begins Sept 2025**
 
 ---

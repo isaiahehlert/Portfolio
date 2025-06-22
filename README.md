@@ -12,7 +12,7 @@
 > - 🛡️ The [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)  
 > - 🖥️ The [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 
-Both certificate tracks contribute credit toward my upcoming B.S. in Cybersecurity & Information Assurance at WGU (Western Governors University, Class of 2027).
+Both certificate tracks contribute toward my upcoming B.S. in Cybersecurity & Information Assurance at WGU (Western Governors University, Class of 2027).
 
 ---
 

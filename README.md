@@ -1,4 +1,4 @@
-# 🧭 Cybersecurity Portfolio — Isaiah Ryan Ehlert
+# 🧽 Cybersecurity Portfolio — Isaiah Ryan Ehlert
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/isaiahehlert/Portfolio?color=blue)
 ![Repo size](https://img.shields.io/github/repo-size/isaiahehlert/Portfolio?color=green)
@@ -8,11 +8,12 @@
 [![Coursera Credential](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Coursera-blueviolet?logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC)
 
 > A curated showcase of hands-on labs, credentials, and real-world technical work built while completing:
-> 
+>
 > - 🛡️ The [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)  
-> - 🖥️ The [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+> - 🖥️ The [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)  
+> - 🔧 The **CompTIA A+ Core 1 and Core 2** curriculum (in progress, Core 1 passed)
 
-Both certificate tracks contribute toward my upcoming B.S. in Cybersecurity & Information Assurance at WGU (Western Governors University, Class of 2027).
+All certification work contributes toward my B.S. in Cybersecurity & Information Assurance at WGU (Western Governors University, Class of 2027).
 
 ---
 
@@ -51,6 +52,13 @@ Each completed course is documented with:
 - 📜 Coursera-issued certificate  
 - 📄 Notes or artifacts when applicable  
 
+### 🔧 CompTIA A+ Certification  
+The A+ certification track includes folders for Core 1 and Core 2. Each subfolder contains:
+
+- 📄 Assignments, worksheets, or research
+- 🔧 Technical diagrams and documentation
+- 🗂️ All organized under `Coursework/CompTIA-A+/`
+
 > _All credential files are stored in the [`credentials/`](./credentials) folder._
 
 ---
@@ -71,13 +79,14 @@ Each completed course is documented with:
 
 ---
 
-## 🧾 Certifications
+## 📋 Certifications
 
 <div align="center">
 
 | Certification | Link |
 |---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
+| **CompTIA A+ — Core 1 Passed / Core 2 In Progress** | _Upload pending_ |
 | **micro1 Independent Security Researcher** | Certification below |
 
 </div>
@@ -99,7 +108,8 @@ For all course certificates, see the [`credentials/`](./credentials) folder.
 ## 📌 Active Progress
 
 - ✅ Google Cybersecurity Certificate — **Completed**
-- 🔄 Google IT Support Certificate — **Completed** 
+- ⟳ Google IT Support Certificate — **Completed**
+- ✅ CompTIA A+ — **Core 1 Passed**, **Core 2 In Progress**
 - 🎓 WGU Cybersecurity & Information Assurance B.S. — **Currently Enrolled/Attending**
 
 ---

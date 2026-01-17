@@ -34,7 +34,7 @@ My mission: **solve real problems, reduce digital risk, and empower secure, stab
 
 ## 🗂️ Portfolio Structure
 
-This repository is organized into two main learning tracks:
+This repository is organized into learning tracks:
 
 ### 🛡️ Google Cybersecurity Certificate  
 Courses 01–08 are structured into individual folders. Each contains:
@@ -44,7 +44,7 @@ Courses 01–08 are structured into individual folders. Each contains:
 - 📄 Reflections and documentation  
 - 📜 Certificate of completion  
 
-### 🖥️ Google IT Support Certificate (in progress)  
+### 🖥️ Google IT Support Certificate   
 Each completed course is documented with:
 
 - ✅ Course overview in Markdown  
@@ -100,7 +100,7 @@ For all course certificates, see the [`credentials/`](./credentials) folder.
 
 - ✅ Google Cybersecurity Certificate — **Completed**
 - 🔄 Google IT Support Certificate — **Completed** 
-- 🎓 WGU Cybersecurity & Information Assurance B.S. — **Begins Sept 2025**
+- 🎓 WGU Cybersecurity & Information Assurance B.S. — **Currently Enrolled/Attending**
 
 ---
 

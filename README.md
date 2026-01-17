@@ -1,4 +1,4 @@
-# 🧽 Cybersecurity Portfolio — Isaiah Ryan Ehlert
+# ⚔️ Cybersecurity Portfolio — Isaiah Ryan Ehlert
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/isaiahehlert/Portfolio?color=blue)
 ![Repo size](https://img.shields.io/github/repo-size/isaiahehlert/Portfolio?color=green)

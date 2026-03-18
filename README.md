@@ -86,7 +86,7 @@ The A+ certification track includes folders for Core 1 and Core 2. Each subfolde
 | Certification | Link |
 |---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
-| **CompTIA A+ Certification (Core 1 & Core 2)** | [View Credential]([.Credentials/Assets/CompTIA-A+.png](https://github.com/isaiahehlert/Portfolio/blob/main/Credentials/Assets/CompTIA-A%2B.png)|
+| **CompTIA A+ Certification (Core 1 & Core 2)** | [View Cert.](https://github.com/isaiahehlert/Portfolio/blob/main/Credentials/Assets/CompTIA-A%2B.png) |
 | **micro1 Independent Security Researcher** | Certification below |
 
 </div>

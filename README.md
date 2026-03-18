@@ -97,7 +97,7 @@ The A+ certification track includes folders for Core 1 and Core 2. Each subfolde
 
 <img src="./Credentials/Assets/google-cybersecurity-badge.jpeg" width="200" alt="Cybersecurity Badge">
 
-<img src="./Credentials/Assets/CompTIA_A+_Certification.png" width="400" alt="CompTIA A+ Certification">
+<img src="./Credentials/Assets/comptia-a-certification.png" width="400" alt="CompTIA A+ Certification">
 
 <img src="./Credentials/Assets/Micro1Certification.png" width="400" alt="micro1 Certification">
 

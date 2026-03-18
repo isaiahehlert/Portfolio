@@ -96,6 +96,30 @@ For all course certificates, see the [`Credentials/`](./Credentials) folder.
 - ✅ Google Cybersecurity Certificate — **Completed**
 - ✅ Google IT Support Certificate — **Completed**
 - ✅ CompTIA A+ Certification (Core 1 + Core 2) — **Completed**
+
+- 🟡 CompTIA Network+  
+- 🟡 CompTIA Security+  
+- 🟡 CompTIA CySA+  
+- 🟡 CompTIA PenTest+  
+- 🟡 CompTIA Project+  
+- 🟡 CompTIA Data+  
+
+- 🟡 LPI Linux Essentials  
+- 🟡 (ISC)² SSCP  
+- 🟡 (ISC)² CCSP  
+- 🟡 ITIL Foundation  
+
+### 🧩 Stackable Certifications (Earned via CompTIA Pathway)
+
+- 🟡 CompTIA IT Operations Specialist (Stackable Cert)  
+- 🟡 CompTIA Secure Infrastructure Specialist (Stackable Cert)  
+- 🟡 CompTIA Security Analytics Professional (Stackable Cert)  
+- 🟡 CompTIA Network Vulnerability Assessment Professional (Stackable Cert)  
+- 🟡 CompTIA Network Security Professional (Stackable Cert)  
+- 🟡 CompTIA Security Infrastructure Expert (Stackable Cert)  
+
+### 🎓 Degree Program
+
 - 🎓 WGU Cybersecurity & Information Assurance B.S. — **Currently Enrolled**
 
 ---

@@ -11,7 +11,7 @@
 >
 > - 🛡️ The [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)  
 > - 🖥️ The [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)  
-> - 🔧 The **CompTIA A+ Core 1 and Core 2** curriculum (in progress, Core 1 passed)
+> - 📜 The CompTIA A+ Certification (Core 1 & Core 2) — Completed
 
 All certification work contributes toward my B.S. in Cybersecurity & Information Assurance at WGU (Western Governors University, Class of 2027).
 
@@ -86,7 +86,7 @@ The A+ certification track includes folders for Core 1 and Core 2. Each subfolde
 | Certification | Link |
 |---------------|------|
 | **Google Cybersecurity Certificate – Full Program** | [View Cert.](https://www.coursera.org/account/accomplishments/specialization/certificate/64C6COMILZRC) |
-| **CompTIA A+ — Core 1 Passed / Core 2 In Progress** | _Upload pending_ |
+| **CompTIA A+ Certification (Core 1 & Core 2)** | [View Credential](.Credentials/Assets/CompTIA-A+.png|
 | **micro1 Independent Security Researcher** | Certification below |
 
 </div>
@@ -96,6 +96,8 @@ The A+ certification track includes folders for Core 1 and Core 2. Each subfolde
 <img src="./Credentials/Assets/google-cybersecurity-certificate.jpeg" width="400" alt="Google Cybersecurity Certificate">
 
 <img src="./Credentials/Assets/google-cybersecurity-badge.jpeg" width="200" alt="Cybersecurity Badge">
+
+<img src="./Credentials/Assets/CompTIA_A+_Certification.png" width="400" alt="CompTIA A+ Certification">
 
 <img src="./Credentials/Assets/Micro1Certification.png" width="400" alt="micro1 Certification">
 
@@ -109,8 +111,8 @@ For all course certificates, see the [`Credentials/`](./Credentials) folder.
 
 - ✅ Google Cybersecurity Certificate — **Completed**
 - ✅ Google IT Support Certificate — **Completed**
-- ✅ CompTIA A+ — **Core 1 Passed**, **Core 2 In Progress**
-- 🎓 WGU Cybersecurity & Information Assurance B.S. — **Currently Enrolled/Attending**
+- ✅ CompTIA A+ Certification (Core 1 + Core 2) — **Completed**
+- 🎓 WGU Cybersecurity & Information Assurance B.S. — **Currently Enrolled**
 
 ---
 

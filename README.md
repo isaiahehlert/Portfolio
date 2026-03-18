@@ -63,22 +63,6 @@ The A+ certification track includes folders for Core 1 and Core 2. Each subfolde
 
 ---
 
-## 📚 Coursework – Cybersecurity (Classes 01–08)
-
-| Class | Title | Contents |
-|-------|-------|----------|
-| [Class 02](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-02-Play-It-Safe) | **Play It Safe: Manage Security Risks** | Risk assessments, mitigation plans, internal audit |
-| [Class 03](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-03-Network-Security) | **Connect and Protect: Networks & Network Security** | Packet analysis, TCP/IP, protocols |
-| [Class 04](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-04-Tools-of-the-Trade) | **Tools of the Trade: Linux & SQL** | Shell scripting, system logs, SQL queries |
-| [Class 05](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-05-Detection-and-Response) | **Detection and Response** | Incident journals, phishing alerts, Wireshark |
-| [Class 06](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-06-Sound-The-Alarm) | **Sound the Alarm: Detection and Response Tools** | Playbooks, Suricata, VirusTotal, SOC workflows |
-| [Class 07](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-07-Automate-Cybersecurity-Tasks-With-Python) | **Automate Cybersecurity Tasks with Python** | Python automation, file parsing, regex, algorithms |
-| [Class 08](./Coursework/Google-Cybersecurity-Certification-Course/Projects/Class-08-Landing-the-Job) | **Landing the Job** | Security org research, elevator pitch, resume, STAR interview answers |
-
-> _Note: Classes 01 of Cybersecurity and IT Support certs are credential-only — see [`Credentials/`](./Credentials)._
-
----
-
 ## 📋 Certifications
 
 <div align="center">

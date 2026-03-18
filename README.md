@@ -11,7 +11,7 @@
 >
 > - 🛡️ The [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)  
 > - 🖥️ The [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)  
-> - 📜 The [CompTIA A+ Certification (Core 1 & Core 2)](./Credentials/Assets/comptia-a-certification.png) — Completed
+> - 📜 The [CompTIA A+ Certification (Core 1 & Core 2)](./Credentials/Assets/comptia-a-certification.png) 
 
 All certification work contributes toward my B.S. in Cybersecurity & Information Assurance at WGU (Western Governors University, Class of 2027).
 
